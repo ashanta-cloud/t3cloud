@@ -1,0 +1,6 @@
+-
+  name: Ping test
+  host: linux-host
+  tasks:
+          - name: Test the ping server
+            ping:
